@@ -1,0 +1,127 @@
+/* font-family: 'Poppins', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;900&display=swap');
+
+/* background baody */
+body {
+     background-color: #f0f0f0;
+     font-family: 'Poppins', sans-serif;
+}
+
+/* navbar */
+.navbar {
+     background-image: linear-gradient(to bottom right, rgb(0, 32, 100), rgb(74, 207, 255));
+}
+
+/* tulisan brand */
+.navbar-brand {
+     color: #ffffff;
+     font-weight: 600;
+}
+.navbar-brand:hover {
+     color: #ffffff;
+}
+
+.daftarProgram {
+     background-color: #2C89C1;
+     font-weight: 600;
+     color: #ffffff;
+}
+
+.daftarKelas {
+     background-color: #ffffff;
+}
+
+.namaKelas {
+     color:#2C89C1;
+     font-weight: 200;
+}
+.namaKelas:hover {
+     text-decoration: none;
+     color: #2C89C1;
+}
+
+.profilAdmin {
+     border-radius: 20px;
+     border-color: #2C89C1;
+}
+
+.identitas {
+     line-height: 0px;
+     color: #2C89C1;
+}
+
+.tombolSatu {
+     border-radius: 50px;
+     background-color: #ffffff;
+     color: #2C89C1;
+     border-color: #2C89C1;
+}
+.tombolSatu:hover {
+     background-color: #2C89C1;
+     color: #f0f0f0;
+}
+
+.daftarLayanan {
+     line-height: 4px;
+}
+
+.kontenFooter {
+     font-weight: 200;
+}
+
+.footer {
+     font-size: 13px;
+     background-color: #2C89C1;
+     color: #f0f0f0;
+}
+
+.btn {
+     border-radius: 50px;
+}
+
+.judulTable {
+     color: #2C89C1;
+}
+
+.headerTable {
+     background-color: #2C89C1;
+     color: #ffffff;
+}
+
+.bodyTable {
+     background-color: #ffffff;
+}
+
+.judulTitle {
+     background-color: #2C89C1;
+     color: #ffffff;
+}
+
+.copyTitle {
+     background-color: #2C89C1;
+     color: #ffffff;
+}
+
+.garisDetail {
+     border-color: #2C89C1;
+}
+
+.namaSekolah {
+     font-weight: 600;
+     color: #ffffff;
+}
+
+.alamatSekolah {
+     font-weight: 300;
+     color: #ffffff;
+}
+
+.tombolLogin {
+     padding-left: 100px;
+     padding-right: 100px;
+     border-radius: 50px;
+}
+
+.kolomLogin {
+     border-radius: 50px;
+}
